@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/vincentneo/CoreGPX'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'vincentneo' => '23420208+vincentneo@users.noreply.github.com' }
-  s.source           = { :git => 'https://github.com/vincentneo/CoreGPX.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:flywithbug-iOS/CoreGPX.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/ivincentneo'
 
   s.swift_versions = ['5.0']
